@@ -4,15 +4,15 @@
 <img align="right" alt="coding"  width="300" src="https://github.com/Kushdeveloper68/Kush-pandit-/blob/main/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushdeveloper68&label=Profile%20views&color=0e75b6&style=flat" alt="kushdeveloper68" /> </p>
 
-- 🔭 I’m currently working on **Normal project**
+- 🔭 I’m currently working on **Deep backend project**
 
-- 🌱 I’m currently learning **Bootstrap and database**
+- 🌱 I’m currently learning **React and Libraries**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kushdeveloper68](https://github.com/Kushdeveloper68)
 
 - 📫 How to reach me **kushpandit68775@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😅**
+- ⚡ Fun fact **I don't now what , I am doing and why?😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
