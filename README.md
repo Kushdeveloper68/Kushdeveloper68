@@ -1,4 +1,4 @@
-![logo](https://github.com/Kushdeveloper68/Kush-pandit-/blob/main/20240121_083846_0000.png)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhMfp42I9bMYPK7N7FOFA6dpqCkDvtDMLvHHMge_zOVIbCw7EUm9RvE8&s=10)
 <h1 align="center">Hi 👋, I'm Kush pandit</h1>
 <h3 align="center">I am frontend and backend developer. 🧠</h3>
 <img align="right" alt="coding"  width="300" src="https://github.com/Kushdeveloper68/Kush-pandit-/blob/main/giphy.gif" />
