@@ -197,7 +197,7 @@ const kush: Developer = {
 <br/>
 <div align="center">
 <sub>
-<b>Kush Pandit</b> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; India &nbsp;·&nbsp; 2025<br/>
+<b>Kush Pandit</b> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; India &nbsp;·&nbsp; 2026<br/>
 <i>If my work resonates — a ⭐ on a repo means more than you think.</i>
 </sub>
 </div>
