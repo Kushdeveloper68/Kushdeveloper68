@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://kushdeveloper.onrender.com">
+  <a href="https://kushdeveloper.me">
     <img src="https://img.shields.io/badge/Portfolio-kushdeveloper.onrender.com-ffffff?style=flat-square&labelColor=111111&color=222222" />
   </a>
   &nbsp;
