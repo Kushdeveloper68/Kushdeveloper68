@@ -139,8 +139,8 @@ const kush: Developer = {
 
 <br/><br/>
 
-<a href="https://kushdeveloper.onrender.com" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio%20%E2%80%94%20kushdeveloper.onrender.com-ffffff?style=for-the-badge&labelColor=111111&color=111111" />
+<a href="https://kushdeveloper.dev" target="_blank">
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio%20%E2%80%94%20kushdeveloper.dev-ffffff?style=for-the-badge&labelColor=111111&color=111111" />
 </a>
 &nbsp;
 <a href="https://github.com/kushdeveloper68" target="_blank">
