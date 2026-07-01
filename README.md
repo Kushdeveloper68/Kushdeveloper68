@@ -96,12 +96,11 @@ const kush: Developer = {
 
 ## ⚡ Tech Arsenal
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,linux,bash,vscode,figma&perline=10" />
-
-</div>
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bash,c,codepen,express,figma,firebase,gcp,git,github,graphql,kali,kubernetes,docker,linux,mongodb,mysql,nginx,nodejs,npm,postgres,postman,powershell,py,redux,tailwind,vercel,vite,vscode" />
+  </a>
+</p>
 
 <br/>
 
