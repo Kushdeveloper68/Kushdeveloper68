@@ -44,7 +44,7 @@
 <td width="55%" valign="top">
 
 &nbsp;&nbsp;I'm **Kush Pandit**, a mid-level **Full Stack Developer** from India
-&nbsp;&nbsp;with 2–4 years of hands-on experience building modern,
+&nbsp;&nbsp;with 3 years of hands-on experience building modern,
 &nbsp;&nbsp;scalable web applications from concept to deployment.
 
 &nbsp;
