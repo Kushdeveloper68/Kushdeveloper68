@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=3000&color=888888&center=true&vCenter=true&width=700&height=30&lines=Full+Stack+Developer+%E2%80%94+React+%C2%B7+Node.js+%C2%B7+MongoDB+%E2%80%94+India" alt="Role" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=3000&color=888888&center=true&vCenter=true&width=700&height=30&lines=Full+Stack+Web+Developer+%E2%80%94+React+%C2%B7+Node.js+%C2%B7+MongoDB+%E2%80%94+India" alt="Role" />
 </div>
 
 <br/>
