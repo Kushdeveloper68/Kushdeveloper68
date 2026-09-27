@@ -170,7 +170,7 @@ const kush: Developer = {
 │   Developer — let's build something great together.                 │
 │                                                                     │
 │   📩  kushpandit68775@gmail.com                                     │
-│   🌐  kushdeveloper.onrender.com                                    │
+│   🌐  kushdeveloper.me                                              │
 │   💼  linkedin.com/in/developerkush                                 │
 │                                                                     │
 ╚─────────────────────────────────────────────────────────────────────╝
